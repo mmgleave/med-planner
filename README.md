@@ -5,7 +5,7 @@
 #### _A web application which provides caregivers and patients an easy solution for managing their apointments._
 
 - _[View Project on GitHub](https://github.com/mmgleave/med-planner)_
-- _[View Project on Heroku](https://med-planner.herokuapp.com/)_
+- _[View Project on Heroku](https://med-planner-app.herokuapp.com/)_
 
 ## Table of Contents:
 
@@ -19,7 +19,7 @@
 
 #### _For patient use: visit Heroku site listed below and sign up. For caregiver use, contact the site creators to create an account._
 
-- _[Heroku Link](https://med-planner.herokuapp.com/)_
+- _[Heroku Link](https://med-planner-app.herokuapp.com/)_
 
 ## Credits
 
