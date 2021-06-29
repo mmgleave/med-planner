@@ -4,7 +4,7 @@
 ## Description:
 #### _A web application which provides caregivers and patients an easy solution for managing their apointments._
 
-- _[View Project on GitHub](https://github.com/Teller35/med-planner)_
+- _[View Project on GitHub](https://github.com/mmgleave/med-planner)_
 - _[View Project on Heroku](https://med-planner.herokuapp.com/)_
 
 ## Table of Contents:
@@ -39,8 +39,8 @@
 
 ## Questions
 
-- #### _If you have any questions please feel free to reach out to me at: <a href='mailto:tellerwetzel@yahoo.com'></i>My Email</a>_
-- #### _You can also find more of our work at my GitHub page: [My GitHub](https://github.com/teller35)_
+- #### _If you have any questions please feel free to reach out to me at: <a href='mailto:mmgleave@gmail.com.com'></i>My Email</a>_
+- #### _You can also find more of our work at my GitHub page: [My GitHub](https://github.com/mmgleave)_
 
 ## Screenshots
 ![Screenshot](public/images/screenshots/screenshot-home.png)
